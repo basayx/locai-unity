@@ -1,6 +1,7 @@
 
 # LOCAI 
 #### One-Click Localization Solution for Games
+https://youtu.be/6Mwvpk5kvWk
 
 LOCAI, allows developers to add localization to their games with minimal workload. The developers can make their own games in their own native languages and let the LOCAI handle the whole localization process.
 
