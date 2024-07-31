@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e2f2470646da654f80415b283844afc, type: 3}
+  m_Name: LOCAI Configurations
+  m_EditorClassIdentifier: 
+  UseGoogleCloudFunctionURL: 0
+  GoogleCloudFunctionURL: https://us-central1-gemini-test-edc47.cloudfunctions.net/LOCAIGemini
+  UseFirebaseFunctions: 0
+  FirebaseFunctionName: LOCAIGemini
+  UseKeyVaultLogic: 0

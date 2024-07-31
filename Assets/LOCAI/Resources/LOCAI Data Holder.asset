@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448529e3e00bf064d9e4f2cb5e287fe2, type: 3}
+  m_Name: LOCAI Data Holder
+  m_EditorClassIdentifier: 
+  Datas:
+  - IsEmpty: 0
+    OriginalString: Play Now
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Play Now
+    - Hemen Oyna
+    - "\u4ECA\u3059\u3050\u30D7\u30EC\u30A4"
+  - IsEmpty: 0
+    OriginalString: Settings
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Settings
+    - Ayarlar
+    - "\u8A2D\u5B9A"
+  - IsEmpty: 0
+    OriginalString: Turkish
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Turkish
+    - "T\xFCrk\xE7e"
+    - "\u30C8\u30EB\u30B3\u8A9E"
+  - IsEmpty: 0
+    OriginalString: English
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - English
+    - "\u0130ngilizce"
+    - "\u82F1\u8A9E"
+  - IsEmpty: 0
+    OriginalString: Japanese
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Japanese
+    - Japonca
+    - "\u65E5\u672C\u8A9E"
+  - IsEmpty: 0
+    OriginalString: 'Selected Language: '
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - 'Selected Language: '
+    - "Se\xE7ilen Dil:"
+    - "\u9078\u629E\u8A00\u8A9E\uFF1A"
+  - IsEmpty: 0
+    OriginalString: Back
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Back
+    - Geri
+    - "\u623B\u308B"
+  - IsEmpty: 0
+    OriginalString: English
+    LocalizedLanguages: 000000001e000000100000000b000000
+    LocalizedStrings:
+    - English
+    - "T\xFCrk\xE7e"
+    - "\u65E5\u672C\u8A9E"
+    - "\u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03CC\u03C2"
+  - IsEmpty: 0
+    OriginalString: Main Menu
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Main Menu
+    - "Ana Men\xFC"
+    - "\u30E1\u30CB\u30E5\u30FC"
+  - IsEmpty: 0
+    OriginalString: Knight Melinda
+    LocalizedLanguages: 00000000
+    LocalizedStrings:
+    - Knight Melinda
+  - IsEmpty: 0
+    OriginalString: I have an unfinished business with your king. Get out of my way!
+    LocalizedLanguages: 00000000
+    LocalizedStrings:
+    - I have an unfinished business with your king. Get out of my way!
+  - IsEmpty: 0
+    OriginalString: You are not welcomed here wizard! Go back!
+    LocalizedLanguages: 00000000
+    LocalizedStrings:
+    - You are not welcomed here wizard! Go back!
+  - IsEmpty: 0
+    OriginalString: Wizard Rufus
+    LocalizedLanguages: 00000000
+    LocalizedStrings:
+    - Wizard Rufus
+  - IsEmpty: 0
+    OriginalString: Settings
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Settings
+    - Ayarlar
+    - "\u8A2D\u5B9A"
+  - IsEmpty: 0
+    OriginalString: Click here to continue...
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Click here to continue...
+    - "Devam etmek i\xE7in buraya t\u0131klay\u0131n"
+    - "\u7D9A\u884C\u3059\u308B\u306B\u306F\u3053\u3061\u3089\u3092\u30AF\u30EA\u30C3\u30AF\u3057\u3066\u304F\u3060\u3055\u3044"
+  - IsEmpty: 0
+    OriginalString: Hello world!
+    LocalizedLanguages: 000000001e00000010000000
+    LocalizedStrings:
+    - Hello world!
+    - "Merhaba d\xFCnya!"
+    - "\u3053\u3093\u306B\u3061\u306F\u3001\u4E16\u754C\uFF01"
+  RemovedAndStillEmptyDatasCount: 0
